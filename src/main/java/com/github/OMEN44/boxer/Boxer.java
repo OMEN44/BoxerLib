@@ -1,4 +1,4 @@
-package com.github.OMEN44;
+package com.github.OMEN44.boxer;
 
 import java.util.ArrayList;
 import java.util.Collections;
