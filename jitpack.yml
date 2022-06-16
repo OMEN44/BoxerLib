@@ -1,0 +1,5 @@
+jdk:
+  - openjdk14
+before_install:
+  - sdk install java 14-open
+  - sdk use java 14-open
