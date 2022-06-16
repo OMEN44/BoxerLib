@@ -1,5 +1,6 @@
 jdk:
   - openjdk14
 before_install:
-  - sdk install java 14-open
-  - sdk use java 14-open
+  - sdk list java
+  - sdk install java 18.0.1.1-open
+  - sdk use java 18.0.1.1-open
