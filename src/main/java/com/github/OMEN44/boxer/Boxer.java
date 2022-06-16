@@ -40,6 +40,9 @@ public class Boxer {
         LEFT
     }
 
+    /**
+     * This is a java doc
+     */
     public Boxer() {
         this.output = null;
         this.content = null;
