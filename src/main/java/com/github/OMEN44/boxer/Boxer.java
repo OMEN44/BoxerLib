@@ -1,4 +1,3 @@
-/*
 package com.github.OMEN44.boxer;
 
 import java.util.ArrayList;
@@ -40,11 +39,6 @@ public class Boxer {
         BOTTOM_LEFT,
         LEFT
     }
-
-    */
-/**
-     * This is a java doc
-     *//*
 
     public Boxer() {
         this.output = null;
@@ -378,4 +372,3 @@ public class Boxer {
 
     }
 }
-*/
